@@ -1,1 +1,3 @@
+include ':appact'
+include ':bndapp'
 include ':app'
